@@ -1,6 +1,6 @@
 # Tank Fighter Game
 
-First setup Graphics.h in Code::Blocks:
+First setup Graphics.h in your Code::Blocks:
 (https://drive.google.com/file/d/1BzBN-EDkc90EDOGC3qG89dPUCBY_zxdd/view?usp=sharing)
 
 
