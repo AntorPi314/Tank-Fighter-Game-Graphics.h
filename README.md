@@ -1,5 +1,8 @@
 # Tank Fighter Game
 
+## Simply run exe to play the game
+
+## Run via Code::Blocks:
 First setup Graphics.h in your Code::Blocks:
 https://drive.google.com/file/d/1BzBN-EDkc90EDOGC3qG89dPUCBY_zxdd/view?usp=sharing
 
