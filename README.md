@@ -15,5 +15,5 @@ Play and Enjoy the game.
 - **Arrow-up**: Fire
 - **Arrow-left & Arrow-right**: To move the tank
 
-![screenshot](https://github.com/antorhawlader50/Tank-Fighter-Game-Graphics.h/blob/main/bin/Image/Screenshot_1.jpg)
+![screenshot](https://github.com/AntorPi314/Tank-Fighter-Game-Graphics.h/blob/main/bin/Image/Screenshot_1.jpg)
 
